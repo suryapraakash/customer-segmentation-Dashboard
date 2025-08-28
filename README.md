@@ -15,7 +15,7 @@
 
 ## 🛠️ How it works (Excel)
 -We can find the potential group to make target Marketing
--Helps to avoid waste of money while targeting low intrested customers.
+-Helps to avoid waste of money while targeting low interested customers.
 
 
 ---
