@@ -4,7 +4,7 @@
 
 ## 🔎 What’s inside
 - **Segmentation Workbook** → [Open the file](./dashboard/segmentation_dashboard.xlsx)
-- **Data (cleaned)** → [Open dataset](./data/customers.xlsx)
+- **Data (cleaned)** → [Open dataset](https://github.com/suryapraakash/customer-segmentation-Dashboard/blob/main/data/cleaned%20seg.xlsx)
 - **Preview**  
   ![Dashboard](./visuals/dashboard_screenshot.png)
 
