@@ -6,7 +6,7 @@
 - **Segmentation Workbook** → [Open the file](https://github.com/suryapraakash/customer-segmentation-Dashboard/blob/main/dashboard/seg%20model.xlsx)
 - **Data (cleaned)** → [Open dataset](https://github.com/suryapraakash/customer-segmentation-Dashboard/blob/main/data/cleaned%20seg.xlsx)
 - **Preview**  
-  ![Dashboard](./visuals/dashboard_screenshot.png)
+  ![Dashboard](https://github.com/suryapraakash/customer-segmentation-Dashboard/blob/main/visuals/cusseg.png)
 
 ## 💡 Impact (Highlights)
 - Built **4 actionable segments** (e.g., Value Loyal, Price Sensitive, At-Risk, New Explorers).
