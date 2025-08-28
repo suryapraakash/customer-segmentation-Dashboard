@@ -9,20 +9,14 @@
   ![Dashboard](https://github.com/suryapraakash/customer-segmentation-Dashboard/blob/main/visuals/cusseg.png)
 
 ## 💡 Impact (Highlights)
-- Built **4 actionable segments** (e.g., Value Loyal, Price Sensitive, At-Risk, New Explorers).
-- Identified **+22% upsell potential** in “Value Loyal” via cross-sell bundles.
-- **Slicers** by Segment, Region, Tenure; KPIs for **ARPU, CLV, Repeat Rate**.
+- Built **2 actionable segments** (e.g., Gender).
+- Identified **potential age** age with 48 has highest customers.
+- **Slicers** by Clusters; KPIs for **percentage of male and female and respective age**.
 
 ## 🛠️ How it works (Excel)
-- Feature engineering (RFM: Recency, Frequency, Monetary using formulas)
-- Standardization (Z-scores via `=(X-mean)/stdev`)
-- Clustering logic (rule-based bins or k-means-style with helper tables)
-- Segment labels + dashboard (PivotCharts + Slicers)
+-We can find the potential group to make target Marketing
+-Helps to avoid waste of money while targeting low intrested customers.
 
-## 📁 Files
-- `./dashboard/segmentation_dashboard.xlsx`
-- `./data/customers.xlsx`
-- `./visuals/dashboard_screenshot.png`
 
 ---
 **Author:** Hara • [LinkedIn](#) • [Portfolio](#)
