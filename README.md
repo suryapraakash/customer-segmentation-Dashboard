@@ -19,4 +19,4 @@
 
 
 ---
-**Author:** Hara • [LinkedIn](#) • [Portfolio](#)
+ [LinkedIn](https://www.linkedin.com/in/suryaprakashpalani/) 
